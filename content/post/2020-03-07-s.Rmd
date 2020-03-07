@@ -1,9 +1,13 @@
 ---
-title: s
+title: Useful links
 author: MS
 date: '2020-03-07'
 slug: s
 categories: []
-tags: []
+tags: [blogdown]
 ---
+
+Blogdown:
+1. https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
+
 "https://bookdown.org/yihui/blogdown/workflow.html"
