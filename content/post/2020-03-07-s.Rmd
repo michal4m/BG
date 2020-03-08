@@ -10,4 +10,8 @@ tags: [blogdown]
 Blogdown:
 1. https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
 
+
+Data visualisation:
+1. https://fivethirtyeight.com/
+
 "https://bookdown.org/yihui/blogdown/workflow.html"
